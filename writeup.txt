@@ -1,0 +1,3 @@
+used Peft and lora method.
+experimented with different dimensions.
+didn't discuss with anybody else.
